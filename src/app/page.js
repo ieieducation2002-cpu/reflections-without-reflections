@@ -40,7 +40,7 @@ export default function Home() {
 
           {/* Title Section */}
           <div className="title-section">
-            <h1 className="title-english">Reflections without Reflections</h1>
+            <h1 className="title-english">Reflection without Reflection</h1>
             <p className="title-sinhala">කමටහන් නොවන කමටහන්</p>
           </div>
 
